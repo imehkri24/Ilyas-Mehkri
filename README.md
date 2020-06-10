@@ -1,28 +1,17 @@
-## Welcome to Ilyas's website
-Here is a picture of me:
 
-# Header 1
-## Header 2
-### Header 3
-You can use the [editor on GitHub](https://github.com/imehkri24/Ilyas-Mehkri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#  Welcome to Ilyas's website
+Here is a picture of me, Ilyas Mehkri:
 
-- Bulleted
-- List
+![FullSizeRender](https://user-images.githubusercontent.com/66752529/84322563-2fb87e00-ab43-11ea-8054-165c273f6654.jpg)
 
-1. Numbered
-2. List
+## Social Media
+You can find me online at:
+- [Instagram](https://www.instagram.com/ilyas24m/) 
+- [Youtube](https://www.youtube.com/channel/UCcfbMduLJ7zu-j5iWBVYzvg?view_as=subscriber) 
+- [Facebook](https://www.facebook.com/ilyas24m ) 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imehkri24/Ilyas-Mehkri/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Brag Sheet
+Some notable things that I have done in my High School Career are:
+- I was President of the East Brunswick Standardized Test Help club
+- I was on East Brunswick High School Varsity Track & Feild
+- I was a star cricket player at CricMax Cricket Academy
